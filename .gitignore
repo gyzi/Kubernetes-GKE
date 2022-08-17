@@ -5,6 +5,15 @@
 *.tfstate
 *.tfstate.*
 
+/kubeconfig.yaml
+*kubeconfig*
+creds.json
+*creds.json
+*cred*.json
+plan-output
+/creds.json
+/.DS_Store
+
 # Crash log files
 crash.log
 
